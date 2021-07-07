@@ -1,0 +1,85 @@
+#EXTM3U url-tvg="http://www.teleguide.info/download/new3/jtv.zip;http://iptvx.one/epg/epg_lite.xml.gz;http://programtv.ru/xmltv.xml.gz;http://epg.it999.ru/edem.xml.gz;https://ottepg.ru/ottepg.xml.gz;http://stb.shara-tv.org/epg/epgtv.xml.gz;http://st.kineskop.tv/epg.xml.gz;https://webarmen.com/my/iptv/xmltv.xml.gz;https://static.mediatech.by/epg.xml"
+#EXTINF:0 tvg-rec="0" tvg-id="ort+4",Первый канал
+#EXTGRP:Общие
+http://phihdsgx.akciatv.ru/iptv/DB2USLRMWKGZHQ/6021/index.m3u8
+#EXTINF:0 tvg-rec="0" tvg-id="rossiya+4",Россия 1
+#EXTGRP:Общие
+http://phihdsgx.akciatv.ru/iptv/DB2USLRMWKGZHQ/6022/index.m3u8
+#EXTINF:0 tvg-rec="0" tvg-id="sts4",СТС
+#EXTGRP:Общие
+http://phihdsgx.akciatv.ru/iptv/DB2USLRMWKGZHQ/6029/index.m3u8
+#EXTINF:0 tvg-rec="0" tvg-id="tnt+4",ТНТ
+#EXTGRP:Общие
+http://phihdsgx.akciatv.ru/iptv/DB2USLRMWKGZHQ/6035/index.m3u8
+#EXTINF:0 tvg-rec="0" tvg-id="pyatnica4",Пятница
+#EXTGRP:Общие
+http://phihdsgx.akciatv.ru/iptv/DB2USLRMWKGZHQ/6032/index.m3u8
+#EXTINF:0 tvg-rec="3" tvg-id="pyatnica",Пятница! HD
+#EXTGRP:Общие
+http://phihdsgx.akciatv.ru/iptv/DB2USLRMWKGZHQ/5031/index.m3u8
+#EXTINF:0 tvg-rec="0",Discovery Ultra
+#EXTGRP:Познавательные
+http://phihdsgx.akciatv.ru/iptv/DB2USLRMWKGZHQ/10048/index.m3u8
+#EXTINF:0 tvg-rec="3" tvg-id="discov_rus-hd",Discovery HD 
+#EXTGRP:Познавательные
+http://phihdsgx.akciatv.ru/iptv/DB2USLRMWKGZHQ/9011/index.m3u8
+#EXTINF:0 tvg-rec="3" tvg-id="animal-hd",Animal Planet HD
+#EXTGRP:Познавательные
+http://phihdsgx.akciatv.ru/iptv/DB2USLRMWKGZHQ/9016/index.m3u8
+#EXTINF:0 tvg-rec="3" tvg-id="kino-uhd",Кино UHD
+#EXTGRP:Кино
+http://phihdsgx.akciatv.ru/iptv/DB2USLRMWKGZHQ/5004/index.m3u8
+#EXTINF:0 tvg-rec="3" tvg-id="serial-uhd",Сериал UHD
+#EXTGRP:Кино
+http://phihdsgx.akciatv.ru/iptv/DB2USLRMWKGZHQ/5005/index.m3u8
+#EXTINF:0 tvg-rec="0" tvg-id="wild-hd",Nat Geo Wild HD
+#EXTGRP:Познавательные
+http://phihdsgx.akciatv.ru/iptv/DB2USLRMWKGZHQ/10022/index.m3u8
+#EXTINF:0 tvg-rec="0" tvg-id="natgeo_hd",National Geographic Channel HD
+#EXTGRP:Познавательные
+http://phihdsgx.akciatv.ru/iptv/DB2USLRMWKGZHQ/10023/index.m3u8
+#EXTINF:0 tvg-rec="3" tvg-id="amedia-hd",Amedia premium HD
+#EXTGRP:Кино
+http://phihdsgx.akciatv.ru/iptv/DB2USLRMWKGZHQ/9022/index.m3u8
+#EXTINF:0 tvg-rec="3" tvg-id="tv1000-action",TV1000 Action HD
+#EXTGRP:Кино
+http://phihdsgx.akciatv.ru/iptv/DB2USLRMWKGZHQ/9057/index.m3u8
+#EXTINF:0 tvg-rec="3" tvg-id="dorama",Дорама HD
+#EXTGRP:Кино
+http://phihdsgx.akciatv.ru/iptv/DB2USLRMWKGZHQ/9224/index.m3u8
+#EXTINF:0 tvg-rec="0" tvg-id="tv3_4",ТВ3
+#EXTGRP:Общие
+http://phihdsgx.akciatv.ru/iptv/DB2USLRMWKGZHQ/6031/index.m3u8
+#EXTINF:0 tvg-rec="0" tvg-id="kino-tv",КИНО ТВ HD
+#EXTGRP:Кино
+http://phihdsgx.akciatv.ru/iptv/DB2USLRMWKGZHQ/2097/index.m3u8
+#EXTINF:0 tvg-rec="7" tvg-id="vh1-europe",VH1 European
+#EXTGRP:Музыка
+http://phihdsgx.akciatv.ru/iptv/DB2USLRMWKGZHQ/536/index.m3u8
+#EXTINF:0 tvg-rec="7",MTV
+#EXTGRP:Музыка
+http://phihdsgx.akciatv.ru/iptv/DB2USLRMWKGZHQ/142/index.m3u8
+#EXTINF:0 tvg-rec="7" tvg-id="mtv-hits",MTV Hits
+#EXTGRP:Музыка
+http://phihdsgx.akciatv.ru/iptv/DB2USLRMWKGZHQ/153/index.m3u8
+#EXTINF:0 tvg-rec="3" tvg-id="MTV-Rock",MTV 90s
+#EXTGRP:Музыка
+http://phihdsgx.akciatv.ru/iptv/DB2USLRMWKGZHQ/1038/index.m3u8
+#EXTINF:0 tvg-rec="3" tvg-id="mtv-rus",MTV Россия HD
+#EXTGRP:Музыка
+http://phihdsgx.akciatv.ru/iptv/DB2USLRMWKGZHQ/2130/index.m3u8
+#EXTINF:0 tvg-rec="7" tvg-id="mtvlive-hd",MTV Live HD
+#EXTGRP:Музыка
+http://phihdsgx.akciatv.ru/iptv/DB2USLRMWKGZHQ/221/index.m3u8
+#EXTINF:0 tvg-rec="3" tvg-id="bridge",Bridge TV HD
+#EXTGRP:Музыка
+http://phihdsgx.akciatv.ru/iptv/DB2USLRMWKGZHQ/9012/index.m3u8
+#EXTINF:0 tvg-rec="3" tvg-id="rusong",BRIDGE TV Русский Хит
+#EXTGRP:Музыка
+http://phihdsgx.akciatv.ru/iptv/DB2USLRMWKGZHQ/120/index.m3u8
+#EXTINF:0 tvg-rec="7" tvg-id="europa-plus",Europa Plus TV
+#EXTGRP:Музыка
+http://phihdsgx.akciatv.ru/iptv/DB2USLRMWKGZHQ/115/index.m3u8
+#EXTINF:0 tvg-rec="7" tvg-id="muz-tv",МУЗ-ТВ
+#EXTGRP:Музыка
+http://phihdsgx.akciatv.ru/iptv/DB2USLRMWKGZHQ/116/index.m3u8
