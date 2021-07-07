@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="http://www.teleguide.info/download/new3/jtv.zip;http://iptvx.one/epg/epg_lite.xml.gz;http://programtv.ru/xmltv.xml.gz;http://epg.it999.ru/edem.xml.gz;https://ottepg.ru/ottepg.xml.gz;http://stb.shara-tv.org/epg/epgtv.xml.gz;http://st.kineskop.tv/epg.xml.gz;https://webarmen.com/my/iptv/xmltv.xml.gz;https://static.mediatech.by/epg.xml"
+#EXTM3U url-tvg="http://www.teleguide.info/download/new3/jtv.zip"
 #EXTINF:0 tvg-rec="0" tvg-id="ort+4",Первый канал
 #EXTGRP:Общие
 http://phihdsgx.akciatv.ru/iptv/DB2USLRMWKGZHQ/6021/index.m3u8
